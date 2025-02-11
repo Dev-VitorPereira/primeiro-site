@@ -73,6 +73,9 @@ ul{
     font-size: 1em;
 
 }
+div.video{
+    background-color: var(--cor4);
+}
 footer{
     background-color: var(--cor4);
 }
